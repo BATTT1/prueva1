@@ -49,8 +49,8 @@ setterm -foreground yellow
 
 echo "OPCIONES: "
 setterm -foreground red
-echo"[1] NO C"
-echo"[2] NO C"
-echo"[3] NO C"
+echo "[1] NO C"
+echo "[2] NO C"
+echo "[3] NO C"
 
 read $op
